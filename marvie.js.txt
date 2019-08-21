@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Site</title>
-</head>
-<body>
-	<p>Is your lover playing at your side ?</p>
-</body>
-</html>
+console.log("This is my new file in this week")
